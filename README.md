@@ -2,6 +2,7 @@
 
 A very much half-baked pure python USB driver for kvaser CAN adapters.
 Only really tested with the Leaf Light but it *might* work with most of their USB stuff.
+Tx works, Rx not done.
 
 ## But, why? They already provide drivers.
 
